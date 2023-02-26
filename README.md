@@ -42,7 +42,7 @@ answer[item.idx] = j + 1;
 ----------------
 
 ## 2023 - 2 -26
-1. [pg인덱스 바꾸기.js]()
+1. [pg인덱스 바꾸기.js](https://github.com/ThovenhairWorrior/TIL2022-Winter-Review/blob/main/rv2023-2-26/pg%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EB%B0%94%EA%BE%B8%EA%B8%B0.js)
 
 
 - arr.splice(start, count, item) : arr의 start번째 인덱스에 있는 객체부터 count 개수 만큼 item으로 바꾼다.
@@ -59,13 +59,13 @@ function solution(my_string, num1, num2) {
 ```
 
 
-2. [pg중복된 문자 제거]()
+2. [pg중복된 문자 제거](https://github.com/ThovenhairWorrior/TIL2022-Winter-Review/blob/main/rv2023-2-26/pg%EC%A4%91%EB%B3%B5%EB%90%9C%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EA%B1%B0.js)
 
 
 - [...new Set(arr)] : 배열에서 중복된 문자를 제거하고 다시 배열로 변환하는 방식
 
 
-3. [pg가까운 수]()
+3. [pg가까운 수](https://github.com/ThovenhairWorrior/TIL2022-Winter-Review/blob/main/rv2023-2-26/pg%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%88%98.js)
 
 
 - 배열에서 객체를 호출하는 순서 이해할 것. 
@@ -82,7 +82,7 @@ function solution(array, n) {
 ```
 
 
-4. [배열 회전시키기]()
+4. [배열 회전시키기](https://github.com/ThovenhairWorrior/TIL2022-Winter-Review/blob/main/rv2023-2-26/pg%EB%B0%B0%EC%97%B4%20%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.js)
 
 
 - arr.slice(a, b) : 배열에서 a번째 인덱스부터 b 바로 앞 인덱스까지 잘라냄
