@@ -87,7 +87,7 @@ function solution(array, n) {
 
 - arr.slice(a, b) : 배열에서 a번째 인덱스부터 b 바로 앞 인덱스까지 잘라냄
 
-
+------------------------
 
 
 
